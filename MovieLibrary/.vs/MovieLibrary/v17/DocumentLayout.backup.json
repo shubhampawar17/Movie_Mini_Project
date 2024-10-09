@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0EDB47-8E15-46F7-B82C-B9CF8FD02937}|MovieLibrary.csproj|e:\\monocept\\c#\\day 20 07-10-24\\movielibrary\\controller\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0EDB47-8E15-46F7-B82C-B9CF8FD02937}|MovieLibrary.csproj|solutionrelative:controller\\moviemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0EDB47-8E15-46F7-B82C-B9CF8FD02937}|MovieLibrary.csproj|e:\\monocept\\c#\\day 20 07-10-24\\movielibrary\\service\\serializedeserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0EDB47-8E15-46F7-B82C-B9CF8FD02937}|MovieLibrary.csproj|solutionrelative:service\\serializedeserialize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0EDB47-8E15-46F7-B82C-B9CF8FD02937}|MovieLibrary.csproj|e:\\monocept\\c#\\day 20 07-10-24\\movielibrary\\model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0EDB47-8E15-46F7-B82C-B9CF8FD02937}|MovieLibrary.csproj|solutionrelative:model\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0EDB47-8E15-46F7-B82C-B9CF8FD02937}|MovieLibrary.csproj|e:\\monocept\\c#\\day 20 07-10-24\\movielibrary\\exceptions\\movielistisfullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0EDB47-8E15-46F7-B82C-B9CF8FD02937}|MovieLibrary.csproj|solutionrelative:exceptions\\movielistisfullexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0EDB47-8E15-46F7-B82C-B9CF8FD02937}|MovieLibrary.csproj|e:\\monocept\\c#\\day 20 07-10-24\\movielibrary\\exceptions\\invalidmovienameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0EDB47-8E15-46F7-B82C-B9CF8FD02937}|MovieLibrary.csproj|solutionrelative:exceptions\\invalidmovienameexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0EDB47-8E15-46F7-B82C-B9CF8FD02937}|MovieLibrary.csproj|e:\\monocept\\c#\\day 20 07-10-24\\movielibrary\\exceptions\\invalidmovieidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0EDB47-8E15-46F7-B82C-B9CF8FD02937}|MovieLibrary.csproj|solutionrelative:exceptions\\invalidmovieidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0EDB47-8E15-46F7-B82C-B9CF8FD02937}|MovieLibrary.csproj|e:\\monocept\\c#\\day 20 07-10-24\\movielibrary\\exceptions\\invalidmovieexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0EDB47-8E15-46F7-B82C-B9CF8FD02937}|MovieLibrary.csproj|solutionrelative:exceptions\\invalidmovieexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0EDB47-8E15-46F7-B82C-B9CF8FD02937}|MovieLibrary.csproj|e:\\monocept\\c#\\day 20 07-10-24\\movielibrary\\movielibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B0EDB47-8E15-46F7-B82C-B9CF8FD02937}|MovieLibrary.csproj|solutionrelative:movielibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 462,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieManager.cs",
+              "DocumentMoniker": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\Controller\\MovieManager.cs",
+              "RelativeDocumentMoniker": "Controller\\MovieManager.cs",
+              "ToolTip": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\Controller\\MovieManager.cs",
+              "RelativeToolTip": "Controller\\MovieManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:04:26.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidMovieNameException.cs",
+              "DocumentMoniker": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\Exceptions\\InvalidMovieNameException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidMovieNameException.cs",
+              "ToolTip": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\Exceptions\\InvalidMovieNameException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidMovieNameException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:27:09.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieListIsFullException.cs",
+              "DocumentMoniker": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\Exceptions\\MovieListIsFullException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\MovieListIsFullException.cs",
+              "ToolTip": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\Exceptions\\MovieListIsFullException.cs",
+              "RelativeToolTip": "Exceptions\\MovieListIsFullException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:09:39.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\model\\Movie.cs",
+              "RelativeDocumentMoniker": "model\\Movie.cs",
+              "ToolTip": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\model\\Movie.cs",
+              "RelativeToolTip": "model\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:03:05.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SerializeDeserialize.cs",
+              "DocumentMoniker": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\Service\\SerializeDeserialize.cs",
+              "RelativeDocumentMoniker": "Service\\SerializeDeserialize.cs",
+              "ToolTip": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\Service\\SerializeDeserialize.cs",
+              "RelativeToolTip": "Service\\SerializeDeserialize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:05:14.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvalidMovieIdException.cs",
+              "DocumentMoniker": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\Exceptions\\InvalidMovieIdException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidMovieIdException.cs",
+              "ToolTip": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\Exceptions\\InvalidMovieIdException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidMovieIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:09:21.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvalidMovieException.cs",
+              "DocumentMoniker": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\Exceptions\\InvalidMovieException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidMovieException.cs",
+              "ToolTip": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\Exceptions\\InvalidMovieException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidMovieException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:08:59.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieLibrary.csproj",
+              "DocumentMoniker": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\MovieLibrary.csproj",
+              "RelativeDocumentMoniker": "MovieLibrary.csproj",
+              "ToolTip": "E:\\Monocept\\C#\\Day 20 07-10-24\\MovieLibrary\\MovieLibrary.csproj",
+              "RelativeToolTip": "MovieLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T12:03:20.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
